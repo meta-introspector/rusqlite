@@ -30,7 +30,7 @@ maintenance = { status = "actively-developed" }
 [lib]
 name = "rusqlite"
 
-[workspace]
+#[workspace]
 members = ["libsqlite3-sys"]
 
 [features]
